@@ -1,7 +1,7 @@
 # wp-request-posts
 Retrieve Wordpress posts from POST or GET request
 
-####Example of use
+#### Example of use
 
 Starting from the url:  
 https://yourwebsite.com/?color=blue&is_promo=1&price-min=50&price-max=100
@@ -50,7 +50,7 @@ $last_page = $builder->last_page();
 
 
 
-####Note
+#### Note
 
 In order to use the **add_meta_min_max()** method, 
 you should add the suffixes "-min" and "-max" to your inputs name.
