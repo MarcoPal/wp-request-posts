@@ -50,7 +50,7 @@ $last_page = $builder->last_page();
 
 
 
-#####Note
+####Note
 
 In order to use the **add_meta_min_max()** method, 
 you should add the suffixes "-min" and "-max" to your inputs name.
